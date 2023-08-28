@@ -1,0 +1,16 @@
+#text {
+  width: 50vw;
+  height: 50vh;
+  background-color: blueviolet;
+  border-radius: 1vw;
+  padding: 10px;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
